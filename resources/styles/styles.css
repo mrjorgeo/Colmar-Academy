@@ -111,7 +111,7 @@ a {
     font-weight: 500;
     color: SteelBlue;
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 
@@ -119,6 +119,7 @@ a {
 
 
 header {
+    max-width: 1200px;
     margin-top: 60px;
     background-color: paleturquoise ;
     padding: 32px 24px;
@@ -129,7 +130,6 @@ header {
 .banner-img {
     width: 60%;
     height: auto;
-    max-height: 600px;
 }
 
 .banner-message {
@@ -161,6 +161,7 @@ button {
 /* Cards */
 
 .grid-container {
+    max-width: 1200px;
     margin: 32px 24px;
     display: grid;
     grid-template-columns: 60% 40%;
