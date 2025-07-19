@@ -9,6 +9,7 @@ body {
 }
 
 
+
 /* Navbar */
 
 nav {
@@ -115,6 +116,8 @@ a {
 }
 
 
+
+
 /* Header */
 
 
@@ -134,8 +137,11 @@ header {
 }
 
 .banner-message {
+    width: 40%;
     align-content: center;
 }
+
+
 
 
 /* Buttons */
@@ -157,6 +163,8 @@ button {
   cursor: pointer;
   background-color: steelblue;
 }
+
+
 
 
 /* Cards */
